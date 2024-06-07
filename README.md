@@ -1,1 +1,1 @@
-# -spacy-owl.github.io
+# spacy-owl.github.io
